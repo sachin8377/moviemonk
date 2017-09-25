@@ -1,0 +1,52 @@
+
+.des_container
+{
+	padding: 10px;
+	width:600px;
+	height: 270px;
+	margin: auto;
+	border: 10px solid #164419;
+	background-color: black;
+}
+.des_heading
+{   display: inline-block;
+	color: white;
+	background-color: black;
+	text-align: center;
+	display: inline;
+}
+.des_detail
+{   display: block;
+	color: white;
+	padding: 10px;
+
+}
+.des_image
+{   float: left;
+	width: 200px;
+	display: inline-block;
+	
+}
+.des_detail p
+{   
+	color: white;
+}
+.go_back
+{
+	border: 2px solid black;
+	text-align: center;
+	width: 150px;
+	font-size: 20px;
+	font: bold;
+	font-family:sans-serif;
+	color: white;
+	background-color: black;
+	border: 5px solid #164419;
+	cursor: pointer;
+}
+.home
+{   padding: 10px;
+	width: 1100px;
+	margin: auto;
+	text-align: center;
+}
